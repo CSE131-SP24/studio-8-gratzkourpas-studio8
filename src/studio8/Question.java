@@ -9,6 +9,7 @@ public class Question {
 		this.prompt = prompt;
 		this.answer = answer;
 		this.points = points;
+		
 	}
 	
 	public void displayPrompt() {
